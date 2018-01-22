@@ -2,7 +2,7 @@
 layout: page
 permalink: /writing/
 title: writing
-description: essays, thoughts, reviews
+description: essays, thoughts, stories
 ---
 
 <ul class="post-list">
