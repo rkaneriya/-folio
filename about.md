@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-...
+Who knows? Work in progress. 
 
 <!-- 
 <hr/>
