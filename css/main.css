@@ -97,7 +97,6 @@ blockquote {
   color: #666;
   border-left: 10px solid #ddd;
   padding-left: 25px;
-  font-size: 18px;
   font-style: italic; }
   blockquote > :last-child {
     margin-bottom: 0; }
